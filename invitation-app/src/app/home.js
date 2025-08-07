@@ -32,9 +32,8 @@ const Home = () => {
 					12:30 am en mi casa. La temática es gothic-emo (っ҂ཀ•)っ, asifonyu
 					ponte tus mejores ropas, no seas aburrideeee jochis. Habrá pizza,
 					jueguitos y pastel, puedes traer 1 acompañante. Para confirmar tu
-					asistencia llena el siguiente formulario a más tardar el 10 de Agosto
-					(si no te registras asumiré que no vendrás, lo que impactara en la
-					cantidad de comida y otras cosas, gracias)
+					asistencia llena el siguiente formulario a más tardar el 10 de Agosto,
+					Graciasss!
 				</DescriptionText>
 				<ConfirmationForm />
 			</ContentContainer>
