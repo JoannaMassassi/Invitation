@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-Developed as a project for an invitation to my birthday party.
+Developed as a project for an invitation to my birthday party, nothing serious or over-complicated. (And in Spanish)
 
 Stack:
 
