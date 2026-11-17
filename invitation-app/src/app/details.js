@@ -4,8 +4,6 @@ import {
 	DescriptionText,
 	TitlesText,
 	ConfirmText,
-	RowContainer,
-	DownloadImg,
 } from './details.styles'
 
 const DetailsPage = () => {
@@ -15,15 +13,6 @@ const DetailsPage = () => {
 				<ConfirmText>
 					Gracias por confirmar tu asistencia pelonshite :D !!!!
 				</ConfirmText>
-				<RowContainer>
-					<DescriptionText>
-						Aqui te dejo un archivo con la dirección y los detalles para
-						descargar :)
-					</DescriptionText>
-					<a href='/files/Nota.docx' download>
-						<DownloadImg src='/img/download.png' alt='Download' />
-					</a>
-				</RowContainer>
 				<TitlesText>NOTAS</TitlesText>
 				<DescriptionText>
 					* BYOB, habrá shots y algo de cerveza para los juegos pero trae tu
