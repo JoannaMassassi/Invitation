@@ -7,7 +7,7 @@ Stack:
 - styled-components
 - Supabase for data persistence
 - bcrypt for comparing password hashes
-- JavaScrip
+- JavaScript
 
 
 ## Getting Started
